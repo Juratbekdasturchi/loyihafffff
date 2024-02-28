@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import monitor from './Monitor.svg'
 import telefon from './Telefon.svg'
 import './App.css';
