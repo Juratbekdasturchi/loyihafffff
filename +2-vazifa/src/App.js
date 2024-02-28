@@ -15,6 +15,7 @@ function App() {
         <span>Нажмите «Редактировать», чтобы создать свой сайт</span>
         {/* <a href="#">Подробнее</a> */}
         <button>Редактировать </button>
+        <button>Редактировать </button>
       </header>
       <main>
         <div>
