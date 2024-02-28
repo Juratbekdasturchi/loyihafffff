@@ -13,7 +13,7 @@ function App() {
           <img src={telefon} alt="" />
         </div>
         <span>Нажмите «Редактировать», чтобы создать свой сайт</span>
-        <a href="#">Подробнее</a>
+        {/* <a href="#">Подробнее</a> */}
         <button>Редактировать </button>
       </header>
       <main>
